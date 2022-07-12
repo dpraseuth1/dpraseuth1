@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end dev
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on open-source projects!
-- 📫 How to reach me davidrpraseuth@gmail.com
+- 📫 How to reach me - davidrpraseuth@gmail.com
 
 <!---
 dpraseuth1/dpraseuth1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
